@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Upahar
 
-- Learning Web & Backend Development with modern frameworks  
+- Learning Backend & Full-Stack Web Development with modern frameworks 
 - Open to collaborating on Full-Stack Web & Mobile Apps  
 - Building cross-platform apps with Flutter & Firebase
 - Exploring new technologies and best practices
@@ -62,6 +62,7 @@
 ### 🛠️ Tools I Use
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
@@ -78,6 +79,6 @@
   </picture>
 </div>
 
-
+---
 
 ⭐ *Thanks for visiting my profile!*
